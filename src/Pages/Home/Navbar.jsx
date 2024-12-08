@@ -138,6 +138,20 @@ function Navbar() {
               smooth={true}
               offset={-70}
               duration={500}
+              to="/internship"
+              className="navbar--content"
+            >
+              Internship
+            </NavHashLink>
+          </li>
+          <li>
+            <NavHashLink
+              onClick={closeMenu}
+              activeClass="navbar--active-content"
+              spy={true}
+              smooth={true}
+              offset={-70}
+              duration={500}
               to="/home#testimonial"
               className="navbar--content"
             >

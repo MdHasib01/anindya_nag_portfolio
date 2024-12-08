@@ -5,6 +5,7 @@ import Navbar from "./Pages/Home/Navbar";
 import Home from "./Pages/Home/Homescreen";
 import Publications from "./Pages/publications";
 import Education from "./Pages/Education";
+import Internship from "./Pages/Internship";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
             <Route path="/home" element={<Home />}></Route>
             <Route path="/publications" element={<Publications />}></Route>
             <Route path="/education" element={<Education />}></Route>
+            <Route path="/internship" element={<Internship />}></Route>
             <Route path="*" element={<div>404 Not Found</div>}></Route>
           </Routes>
         </div>

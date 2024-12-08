@@ -1,3 +1,4 @@
+import Awards from "../../Awards";
 import Education from "../../Education";
 import Experience from "../../Experience/Experience";
 import Publications from "../../publications";
@@ -18,6 +19,7 @@ export default function Home() {
       <AboutMe />
       <Education />
       <MyPortfolio />
+      <Awards />
       <Testimonial />
       <ContactMe />
       <Footer />
