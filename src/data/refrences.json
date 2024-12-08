@@ -1,0 +1,50 @@
+{
+  "references": [
+    {
+      "id": "R001",
+      "name": "Prof. Dr. Anupam Kumar Bairagi",
+      "designation": "Professor",
+      "department": "Dept. of Computer Science and Engineering Discipline",
+      "institution": "Khulna University",
+      "location": "Khulna-9208, Bangladesh",
+      "email": "anupam@ku.ac.bd",
+      "relationship": "Thesis Supervisor"
+    },
+    {
+      "id": "R002",
+      "name": "Dr. Riya Sil",
+      "designation": "Assistant Professor",
+      "department": "Dept. of CSE",
+      "institution": "Adamas University",
+      "location": "India",
+      "email": "riyasil1802@gmail.com",
+      "relationship": "Project Supervisor"
+    },
+    {
+      "id": "R003",
+      "name": "Ratan Kumar Mondal",
+      "designation": "Deputy Secretary",
+      "institution": "Ministry of Science & Technology",
+      "location": "Bangladesh",
+      "email": "ratan1569@gmail.com"
+    },
+    {
+      "id": "R004",
+      "name": "Professor Dr. Mosleh Ud-Deen",
+      "designation": "Chairman",
+      "department": "Dept. of Crop Science & Technology",
+      "institution": "University of Rajshahi",
+      "location": "Bangladesh",
+      "email": "uddeenm@yahoo.com"
+    },
+    {
+      "id": "R005",
+      "name": "Dr. Uzzal Kumar Nag",
+      "designation": "Assistant Professor",
+      "department": "Dept. of Pediatric Surgery",
+      "institution": "Mymensingh Medical College Hospital (MMCH)",
+      "location": "Bangladesh",
+      "email": "druknag27@gmail.com"
+    }
+  ]
+}

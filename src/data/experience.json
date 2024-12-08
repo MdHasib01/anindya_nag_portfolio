@@ -1,0 +1,52 @@
+{
+  "work_experience": [
+    {
+      "title": "Lecturer",
+      "department": "Department of Computer Science & Engineering",
+      "institution": "Northern University of Business and Technology Khulna (NBTUK)",
+      "location": "Khulna-9100, Bangladesh",
+      "start_date": "March 2024",
+      "end_date": "Present"
+    },
+    {
+      "title": "Adjunct Lecturer",
+      "department": "Department of Computer Science & Engineering",
+      "institution": "North Western University",
+      "location": "Khulna-9100, Bangladesh",
+      "start_date": "January 2023",
+      "end_date": "Present"
+    },
+    {
+      "title": "Adjunct Lecturer",
+      "department": "Department of Computer Science & Engineering",
+      "institution": "Imperial College of Engineering, Khulna (Rajshahi University Affiliated)",
+      "location": "Khulna-9100, Bangladesh",
+      "start_date": "July 2023",
+      "end_date": "January 2024"
+    }
+  ],
+  "courses_conducted": [
+    "Digital Logic Design",
+    "Numerical Analysis",
+    "Data Warehousing and Mining",
+    "Numerical Analysis and Computer Programming",
+    "System Programming & Operating System Laboratory",
+    "Internet Programming Laboratory",
+    "Information Security and Control",
+    "Natural Language Processing"
+  ],
+  "board_memberships": [
+    {
+      "tittle": "Review Board Memberships",
+      "journal_name": "Medicon Engineering Themes",
+      "issn": "2834-7218",
+      "link": "https://themedicon.com/engineeringthemes-reviewer-board"
+    },
+    {
+      "tittle": "Editor Board Memberships",
+      "journal_name": "PriMera Scientific Engineering Journal",
+      "issn": "2834-2550",
+      "link": "https://primerascientific.com/psen/editorialboard"
+    }
+  ]
+}

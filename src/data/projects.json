@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "id": "P001",
+      "title": "Cloud-Based Vehicle Tracking System",
+      "type": "Final Year Major Project (Project-2)"
+     
+    },
+    {
+      "id": "P002",
+      "title": "Basic Banking System",
+      "description": "Developed a website to demonstrate money transfers between accounts.",
+      "hosting": "GitHub Pages",
+      "repository_link": "GitHub Repository Link"
+    },
+    {
+      "id": "P003",
+      "title": "Data Science and Business Analytics"
+     
+    },
+    {
+      "id": "P004",
+      "title": "Analyze Crop Production of India",
+    
+      "github_link": "GitHub Repository Link"
+    },
+    {
+      "id": "P005",
+      "title": "Foodazon - Canteen Management System",
+      "type": "Pre-Final Year Mini Project",
+      "description": "Developed Foodazon, an easy canteen management system using Laravel and MySQL."
+    }
+  ]
+}

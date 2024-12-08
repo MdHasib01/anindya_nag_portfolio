@@ -1,0 +1,33 @@
+{
+  "education": [
+    {
+      "degree": "M.Sc.(Engg.) in Computer Science & Engineering",
+      "institution": "Khulna University, Khulna-9208, Bangladesh",
+      "batch": "January 2023",
+      "status": "Thesis remaining only"
+    },
+    {
+      "degree": "Bachelor of Technology (B.Tech) in Computer Science & Engineering",
+      "institution": "ADAMAS UNIVERSITY, Kolkata, India",
+      "session": "2018-2022",
+      "passing_year": 2022,
+      "cgpa": 9.64
+    },
+    {
+      "level": "Higher Secondary Certificate Examination (HSC)",
+      "institution": "Govt. Brajalal College, Khulna",
+      "board": "Jashore Board",
+      "passing_year": 2016,
+      "group": "Science",
+      "gpa": 5.0
+    },
+    {
+      "level": "Secondary School Certificate Examination (SSC)",
+      "institution": "Damodar M. M. Secondary School, Khulna",
+      "board": "Jashore Board",
+      "passing_year": 2014,
+      "group": "Science",
+      "gpa": 5.0
+    }
+  ]
+}
