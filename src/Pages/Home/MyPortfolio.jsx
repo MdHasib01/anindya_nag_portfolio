@@ -5,16 +5,16 @@ import Aos from "aos";
 
 export default function MyPortfolio() {
   useEffect(() => {
-    Aos.init({duration:1000})
-  },[])
+    Aos.init({ duration: 1000 });
+  }, []);
   return (
-    <section className="portfolio--section" id="MyPortfolio">
+    <section className="px-4 mx-auto max-w-[1280px] pt-24" id="MyPortfolio">
       <div className="portfolio--container-box">
         <div className="portfolio--container">
           <h2 className="section--heading">My Projects</h2>
         </div>
         <div>
-          <button className="btn btn-github">
+          <button className="btn btn-github mb-4">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="32"
@@ -33,16 +33,28 @@ export default function MyPortfolio() {
           </button>
         </div>
       </div>
-      <div className="portfolio--section--container">
-        {data?.portfolio?.map((item, index) => (
-          <div key={index} className="portfolio--section--card" data-aos="fade-up">
+      <div className="grid md:grid-cols-3 gap-4">
+        {porject?.projects?.map((item, index) => (
+          <div
+            key={index}
+            className="portfolio--section--card"
+            data-aos="fade-up"
+          >
             <div className="portfolio--section--img">
-              <img src={item.src} alt="Placeholder" />
+              <iframe
+                className="w-full h-[200px]"
+                src={`https://www.youtube.com/embed/${item.video}`}
+                title="React Component Card Tutorial"
+                framebordzer="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+              ></iframe>
             </div>
-            <div className="portfolio--section--card--content">
+            <div className="">
               <div>
-                <h3 className="portfolio--section--title">{item.title}</h3>
+                <h3 className="font-bold text-indigo-500">{item.title}</h3>
                 <p className="text-md">{item.description}</p>
+                <p className="text-md">{item.type}</p>
               </div>
               <p className="text-sm portfolio--link">
                 {item.link}

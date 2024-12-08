@@ -3,31 +3,72 @@
     {
       "id": "P001",
       "title": "Cloud-Based Vehicle Tracking System",
-      "type": "Final Year Major Project (Project-2)"
-     
+      "type": "Final Year Major Project (Project-2)",
+      "objectives": [
+        "Check in-time by reading RFID card and retrieve car details like owner's name and car number.",
+        "Maintain records of all registered vehicles' in-time and out-time.",
+        "Provide unified information across multiple gates via a single website.",
+        "Enable vehicle tracking through owner's name.",
+        "Ensure information accessibility via the website."
+      ],
+      "video": "Lo1qGJUy01Y"
     },
     {
       "id": "P002",
       "title": "Basic Banking System",
       "description": "Developed a website to demonstrate money transfers between accounts.",
       "hosting": "GitHub Pages",
+      "video": "Lo1qGJUy01Y",
       "repository_link": "GitHub Repository Link"
     },
     {
       "id": "P003",
-      "title": "Data Science and Business Analytics"
-     
+      "title": "Data Science and Business Analytics",
+      "tasks": [
+        {
+          "id": "T001",
+          "task": "Prediction using Supervised ML",
+          "problem_statement": "Predict the percentage of a student based on study hours.",
+          "additional_question": "What will be the predicted score if a student studies for 9.25 hrs/day?",
+          "github_link": "GitHub Repository Link",
+          "video": "Lo1qGJUy01Y",
+          "dataset_link": "Dataset Link"
+        },
+        {
+          "id": "T002",
+          "task": "Prediction using Unsupervised ML",
+          "problem_statement": "Predict the optimum number of clusters from the Iris dataset and represent it visually.",
+          "github_link": "GitHub Repository Link",
+          "video": "Lo1qGJUy01Y",
+          "dataset_link": "Dataset Link"
+        },
+        {
+          "id": "T003",
+          "task": "Exploratory Data Analysis - Retail",
+          "problem_statement": "Analyze 'SampleSuperstore' data to identify weak business areas and derive actionable insights.",
+          "github_link": "GitHub Repository Link",
+          "dataset_link": "Dataset Link"
+        }
+      ]
     },
     {
       "id": "P004",
       "title": "Analyze Crop Production of India",
-    
-      "github_link": "GitHub Repository Link"
+      "problem_statements": [
+        "Find the average production of crops in India.",
+        "Identify the crop with the maximum yield (Tonnes/Hectare).",
+        "Compare Rice production between Odisha and West Bengal.",
+        "Determine the state with the highest Wheat production.",
+        "Predict Rice production for Andhra Pradesh, Uttar Pradesh, and Tamil Nadu in 2014."
+      ],
+      "github_link": "GitHub Repository Link",
+      "video": "Lo1qGJUy01Y"
     },
     {
       "id": "P005",
       "title": "Foodazon - Canteen Management System",
       "type": "Pre-Final Year Mini Project",
+      "video": "Lo1qGJUy01Y",
       "description": "Developed Foodazon, an easy canteen management system using Laravel and MySQL."
     }
   ]
