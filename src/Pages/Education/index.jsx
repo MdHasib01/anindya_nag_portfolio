@@ -64,7 +64,7 @@ const Education = () => {
                   Passing Year: {edu.passing_year}
                 </div>
               )}
-              {edu.gpa && <div class="text-slate-500">GPA: {edu.gpa}</div>}
+              {edu.gpa && <div class="text-slate-500">GPA: {edu.gpa} (Out of {edu?.out_of})</div>}
               {edu.cgpa && <div class="text-slate-500">CGPA: {edu.cgpa}</div>}
               {edu.status && (
                 <div class="text-slate-500">Status: {edu.status}</div>

@@ -30,7 +30,7 @@ export default function Testimonial() {
               {item.institution}, {item.location}
             </p>
             <p className="text-slate-500 ">Email: {item.email}</p>
-            <p className="text-slate-500 ">Relationship: {item.relationship}</p>
+           { item.relationship &&<p className="text-slate-500 ">Relationship: {item.relationship}</p>}
           </div>
         ))}
       </div>

@@ -3,15 +3,19 @@
     {
       "degree": "M.Sc.(Engg.) in Computer Science & Engineering",
       "institution": "Khulna University, Khulna-9208, Bangladesh",
-      "batch": "January 2023",
-      "status": "Thesis remaining only"
+      "session": "2023-2024",
+      "passing_year": 2024,
+      "cgpa": 4.96,
+      "out_of":4.0
+      
     },
     {
       "degree": "Bachelor of Technology (B.Tech) in Computer Science & Engineering",
       "institution": "ADAMAS UNIVERSITY, Kolkata, India",
       "session": "2018-2022",
       "passing_year": 2022,
-      "cgpa": 9.64
+      "cgpa": 9.64,
+      "out_of":10.0
     },
     {
       "level": "Higher Secondary Certificate Examination (HSC)",
@@ -19,7 +23,8 @@
       "board": "Jashore Board",
       "passing_year": 2016,
       "group": "Science",
-      "gpa": 5.0
+      "gpa": 5.0 ,
+      "out_of":5.0
     },
     {
       "level": "Secondary School Certificate Examination (SSC)",
@@ -27,7 +32,8 @@
       "board": "Jashore Board",
       "passing_year": 2014,
       "group": "Science",
-      "gpa": 5.0
+      "gpa": 5.0,
+      "out_of":5.0
     }
   ]
 }
