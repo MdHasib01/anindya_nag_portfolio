@@ -27,24 +27,6 @@
       "institution": "Ministry of Science & Technology",
       "location": "Bangladesh",
       "email": "ratan1569@gmail.com"
-    },
-    {
-      "id": "R004",
-      "name": "Professor Dr. Mosleh Ud-Deen",
-      "designation": "Chairman",
-      "department": "Dept. of Crop Science & Technology",
-      "institution": "University of Rajshahi",
-      "location": "Bangladesh",
-      "email": "uddeenm@yahoo.com"
-    },
-    {
-      "id": "R005",
-      "name": "Dr. Uzzal Kumar Nag",
-      "designation": "Assistant Professor",
-      "department": "Dept. of Pediatric Surgery",
-      "institution": "Mymensingh Medical College Hospital (MMCH)",
-      "location": "Bangladesh",
-      "email": "druknag27@gmail.com"
     }
   ]
 }
